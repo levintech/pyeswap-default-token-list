@@ -19,7 +19,7 @@
             "symbol": "WETH",
             "decimals": 18,
             "chainId": 4,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
         },
         {
             "name": "PYE",
@@ -27,7 +27,7 @@
             "symbol": "PYE",
             "decimals": 9,
             "chainId": 4,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7d3DdaE9CBDb4464a72768c7D799E884a2e635AA/logo.png"
         },
         {
             "name": "APPLE",
@@ -35,7 +35,7 @@
             "symbol": "APPLE",
             "decimals": 18,
             "chainId": 4,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4839D1eD94CB344F3671828Bbe51Af5f95493D46/logo.png"
         },
         {
             "name": "CHERRY",
@@ -43,7 +43,7 @@
             "symbol": "CHERRY",
             "decimals": 18,
             "chainId": 4,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF6D862573b271591e3FB98841d100523e96c9C3A/logo.png"
         },
         {
             "name": "USD Coin",
@@ -51,7 +51,7 @@
             "symbol": "USDC",
             "decimals": 6,
             "chainId": 4,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b/logo.png"
         },
         {
             "name": "Tether USD",
@@ -59,7 +59,7 @@
             "symbol": "USDT",
             "decimals": 6,
             "chainId": 4,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3B00Ef435fA4FcFF5C209a37d1f3dcff37c705aD/logo.png"
         },
         {
             "name": "Dai Stablecoin",
@@ -67,7 +67,7 @@
             "symbol": "DAI",
             "decimals": 18,
             "chainId": 4,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
         },
         {
             "name": "Wrapped BTC",
@@ -75,7 +75,7 @@
             "symbol": "WBTC",
             "decimals": 8,
             "chainId": 4,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x577D296678535e4903D59A4C929B718e1D575e0A/logo.png"
         }
     ]
 }
