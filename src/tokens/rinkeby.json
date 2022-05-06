@@ -19,7 +19,47 @@
             "symbol": "WETH",
             "decimals": 18,
             "chainId": 4,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+            "logoURI": ""
+        },
+        {
+            "name": "PYE",
+            "address": "0x7d3DdaE9CBDb4464a72768c7D799E884a2e635AA",
+            "symbol": "PYE",
+            "decimals": 9,
+            "chainId": 4,
+            "logoURI": ""
+        },
+        {
+            "name": "APPLE",
+            "address": "0x4839D1eD94CB344F3671828Bbe51Af5f95493D46",
+            "symbol": "APPLE",
+            "decimals": 18,
+            "chainId": 4,
+            "logoURI": ""
+        },
+        {
+            "name": "CHERRY",
+            "address": "0xF6D862573b271591e3FB98841d100523e96c9C3A",
+            "symbol": "CHERRY",
+            "decimals": 18,
+            "chainId": 4,
+            "logoURI": ""
+        },
+        {
+            "name": "USD Coin",
+            "address": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 4,
+            "logoURI": ""
+        },
+        {
+            "name": "Tether USD",
+            "address": "0x3B00Ef435fA4FcFF5C209a37d1f3dcff37c705aD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 4,
+            "logoURI": ""
         },
         {
             "name": "Dai Stablecoin",
@@ -27,23 +67,15 @@
             "symbol": "DAI",
             "decimals": 18,
             "chainId": 4,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
+            "logoURI": ""
         },
         {
-            "name": "Maker",
-            "address": "0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85",
-            "symbol": "MKR",
-            "decimals": 18,
+            "name": "Wrapped BTC",
+            "address": "0x577D296678535e4903D59A4C929B718e1D575e0A",
+            "symbol": "WBTC",
+            "decimals": 8,
             "chainId": 4,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85/logo.png"
-        },
-        {
-            "name": "Uniswap",
-            "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-            "symbol": "UNI",
-            "decimals": 18,
-            "chainId": 4,
-            "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+            "logoURI": ""
         }
     ]
 }
