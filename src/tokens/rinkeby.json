@@ -46,12 +46,12 @@
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF6D862573b271591e3FB98841d100523e96c9C3A/logo.png"
         },
         {
-            "name": "USD Coin",
-            "address": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
+            "name": "USD Coin (rinkeby)",
+            "address": "0xeb8f08a975Ab53E34D8a0330E0D34de942C95926",
             "symbol": "USDC",
             "decimals": 6,
             "chainId": 4,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xeb8f08a975Ab53E34D8a0330E0D34de942C95926/logo.png"
         },
         {
             "name": "Tether USD",
